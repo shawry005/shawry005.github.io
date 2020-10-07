@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shawry005.github.io</id>
-    <title>萧丶rrrrr</title>
-    <updated>2020-10-07T11:08:41.655Z</updated>
+    <title>萧丶</title>
+    <updated>2020-10-07T11:08:59.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shawry005.github.io"/>
     <link rel="self" href="https://shawry005.github.io/atom.xml"/>
     <subtitle>Sometimes life can only be understood backwards; but it must be lived forwards.</subtitle>
     <logo>https://shawry005.github.io/images/avatar.png</logo>
     <icon>https://shawry005.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 萧丶rrrrr</rights>
+    <rights>All rights reserved 2020, 萧丶</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shawry005.github.io/post/hello-gridea/</id>
