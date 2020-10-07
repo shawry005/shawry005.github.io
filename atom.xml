@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shawry005.github.io</id>
     <title>萧丶</title>
-    <updated>2020-10-07T12:44:46.630Z</updated>
+    <updated>2020-10-07T12:47:47.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shawry005.github.io"/>
     <link rel="self" href="https://shawry005.github.io/atom.xml"/>
@@ -21,8 +21,17 @@
 <h3 id="三级标题">三级标题</h3>
 <h4 id="四级标题">四级标题</h4>
 <p><em>斜体</em><br>
-<strong>粗体</strong><br>
-*** 粗斜体 ***</p>
+<strong>粗体</strong></p>
+<ul>
+<li>11</li>
+<li>22</li>
+<li>33</li>
+</ul>
+<ol>
+<li>11</li>
+<li>22</li>
+<li>33</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
